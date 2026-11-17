@@ -1,0 +1,6 @@
+
+Which language are we learning?|Java|Python|C++|HTML|B
+Which symbol is used for comments in Python?|//|#|/*|@|B
+Which function is used to display output in Python?|input()|print()|type()|int()|B
+Which data type stores True or False?|String|Integer|Boolean|Float|C
+which of the following is the correct file extension for python file?.py.pyt.python.ptWhich of the following is the correct file extension for python file?			.|.py|.txt|.python|.doc|A
